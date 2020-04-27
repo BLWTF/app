@@ -1,5 +1,4 @@
 # my-app
 
-This is a really awesome branch example
+Updates made on master Github before rebase
 
-Update locally
