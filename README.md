@@ -1,3 +1,3 @@
 # my-app
 
-This is really awesome
+This is a really awesome branch example
